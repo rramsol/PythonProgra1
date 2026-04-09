@@ -12,6 +12,7 @@ miVariable = "correcto"
 MIVARIABLE = "CORRECTO"
 mivariable2 = "correcto"
 
+# NO ES PERMITIDO
 2mivariable = "incorrecto"
 mi-variable = "incorrecto"
 mi variable = "incorrecto"
