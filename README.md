@@ -42,9 +42,6 @@ git config --global core.editor "code --wait"
 
 ---
 
-## Marco conceptual
-
-Antes de los comandos, fije estas ideas. Si no se las ancla, Git va a parecerle magia o, peor, una calculadora caprichosa.
 
 ### ¿Qué es Git?
 
